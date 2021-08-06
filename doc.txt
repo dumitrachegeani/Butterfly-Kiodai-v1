@@ -1,0 +1,7 @@
+Design patterns: Facade in Fereastra - este interfata grafica si ascunde toata implementarea aplicatiei in spatele unui GUI -
+                 Decorator - adauga functii suplimentare unei clase (Joc) prin "imbracarea acestuia" cu interfata IJoc folosind DecoratorJoc ca un Joc
+                 FactoryMethod - metoda ce tine loc constructorului pentru a da un nume mai sugestiv si a avea o lejeritatea mai mare in
+                                creerea unei instante din FileCreator (ne spune ce tip de fisier creeaza - poate fi dezvoltata pe mai departe de a construi mai multe tipuri de fisiere)
+                Singleton - poate exista o singura instanta a clasei ce rezolva algoritmul de cautare a drumului se
+                Builder - Labelurile sunt create in mod laborios si cu multe componente, asadar am folosit clasa LabelBuilder pentru a rezolva problema (principiul de baza : am un camp Label si ii setez caracteristicele
+                            in metodetele with, facand astfel method chaining, iar la sfarsit apelez build pentru a returna instanta Label respectiva
