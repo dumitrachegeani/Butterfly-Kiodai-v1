@@ -1,0 +1,24 @@
+
+e
+java:S2095""HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ûí×Ë8‘ıŠÍª/
+j
+java:S2095*"HUse try-with-resources or close this "FileWriter" in a "finally" clause.( ‚€Êüÿÿÿÿ8‘ıŠÍª/
+0
+java:S1700"Rename field "filecreator"(æ—óÀ
+Q
+java:S6212"/Declare this local variable with "var" instead.(áÒ†£ûÿÿÿÿ8ÕÒŒÍª/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼à•Œ8·ıŠÍª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ8ØÒŒÍª/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Àûå 8ØÒŒÍª/
+L
+java:S6212""/Declare this local variable with "var" instead.(Ûí×Ë8¶ıŠÍª/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ÚÒŒÍª/
+Q
+java:S6212*"/Declare this local variable with "var" instead.( ‚€Êüÿÿÿÿ8¸ıŠÍª/
+Q
+java:S62120"/Declare this local variable with "var" instead.(¬ä¹½şÿÿÿÿ8çåŒÍª/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(¼à•Œ8èåŒÍª/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ı¤êöıÿÿÿÿ8èåŒÍª/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(Àûå 8èåŒÍª/
+E
+java:S1068"/Remove this unused "filecreator" private field.(æ—óÀ
